@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EggsBravoMINT/static/css/main.d7a69788.chunk.css",
+    "main.js": "/EggsBravoMINT/static/js/main.479fff83.chunk.js",
+    "main.js.map": "/EggsBravoMINT/static/js/main.479fff83.chunk.js.map",
+    "runtime-main.js": "/EggsBravoMINT/static/js/runtime-main.b51af40f.js",
+    "runtime-main.js.map": "/EggsBravoMINT/static/js/runtime-main.b51af40f.js.map",
+    "static/js/2.a4bd6953.chunk.js": "/EggsBravoMINT/static/js/2.a4bd6953.chunk.js",
+    "static/js/2.a4bd6953.chunk.js.map": "/EggsBravoMINT/static/js/2.a4bd6953.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/EggsBravoMINT/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/EggsBravoMINT/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/EggsBravoMINT/index.html",
+    "static/css/main.d7a69788.chunk.css.map": "/EggsBravoMINT/static/css/main.d7a69788.chunk.css.map",
+    "static/js/2.a4bd6953.chunk.js.LICENSE.txt": "/EggsBravoMINT/static/js/2.a4bd6953.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/EggsBravoMINT/static/media/1.75f03515.png",
+    "static/media/reset.css": "/EggsBravoMINT/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b51af40f.js",
+    "static/js/2.a4bd6953.chunk.js",
+    "static/css/main.d7a69788.chunk.css",
+    "static/js/main.479fff83.chunk.js"
+  ]
+}
